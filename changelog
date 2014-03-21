@@ -1,0 +1,4 @@
+v2.0
+Updated and compatible with Minecraft 1.7.
+Converted to a Maven project, various code refactoring.
+Added auto updating and Metrics.
